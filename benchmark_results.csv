@@ -1,0 +1,6 @@
+operation,mysql_avg,mysql_min,mysql_max,mysql_stdev,mongo_avg,mongo_min,mongo_max,mongo_stdev
+Search flights,3.326,1.754,47.586,4.483,1.478,0.907,25.518,2.47
+View bookings,3.41,2.032,7.223,0.796,5.995,2.455,94.711,9.882
+Cancel booking,2.164,1.447,3.313,0.284,1.241,0.92,3.138,0.483
+Seat availability,7.516,4.937,10.969,1.518,5.451,3.72,18.054,1.994
+Create booking (read),8.478,5.078,13.457,1.83,3.379,1.964,9.384,1.177
